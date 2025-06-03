@@ -181,4 +181,3 @@
   <img alt="Stars" src="https://img.shields.io/github/stars/MatheusCoutinho26?style=social"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/MatheusCoutinho26/MatheusCoutinho26?logo=git"/>
 </div>
-
