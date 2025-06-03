@@ -72,73 +72,57 @@
 ---
 
 ## GitHub Stats
+
 <div align="center">
   <table>
     <tr>
       <td>
         <!-- Estatísticas gerais do GitHub -->
-        <img alt="GitHub Stats" 
+        <img alt="GitHub Stats"
              src="https://github-readme-stats.vercel.app/api?username=MatheusCoutinho26&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
       </td>
       <td>
         <!-- Linguagens mais usadas -->
-        <img alt="GitHub Top Langs" 
+        <img alt="GitHub Top Langs"
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoutinho26&theme=dark&locale=pt-br&langs_count=7"/>
       </td>
       <td>
         <!-- Gráfico em pizza das linguagens -->
-        <img alt="GitHub Top Langs Pie" 
+        <img alt="GitHub Top Langs Pie"
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoutinho26&layout=pie&theme=dark&locale=pt-br"/>
       </td>
     </tr>
-    <tr><td align="center" colspan="3"></td></tr>
-  </table>
-
-  <table>
     <tr>
-      <td align="center">
-        <!-- GitHub Wrapped -->
-        <a href="https://www.githubwrapped.io/MatheusCoutinho26" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub%20Wrapped-MatheusCoutinho26-000000?logo=github" alt="GitHub Wrapped" />
-        </a>
-      </td>
+      <td align="center" colspan="3"></td>
     </tr>
-    <tr>
-      <td align="center">
-        <!-- Gráfico de tendências de repositório (ano) -->
-        <img alt="GitHub Trends" 
-             src="https://api.githubtrends.io/user/svg/MatheusCoutinho26/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-      </td>
-    </tr>
-    <tr><td align="center"></td></tr>
   </table>
 
   <table>
     <tr>
       <td>
-        <img alt="GitHub Stats Card" width="200px" 
+        <img alt="GitHub Stats Card" width="200px"
              src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusCoutinho26&theme=github_dark"/>
       </td>
       <td>
-        <img alt="Repos per Language Card" width="200px" 
+        <img alt="Repos per Language Card" width="200px"
              src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusCoutinho26&theme=github_dark"/>
       </td>
       <td>
-        <img alt="Profile Details Card" width="420px" 
+        <img alt="Profile Details Card" width="420px"
              src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCoutinho26&theme=github_dark"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img alt="Productive Time Card" width="200px" 
+        <img alt="Productive Time Card" width="200px"
              src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusCoutinho26&theme=github_dark&utcOffset=8"/>
       </td>
       <td>
-        <img alt="Most Commit Language Card" width="200px" 
+        <img alt="Most Commit Language Card" width="200px"
              src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusCoutinho26&theme=github_dark"/>
       </td>
       <td>
-        <img alt="Streak Stats" width="420px" 
+        <img alt="Streak Stats" width="420px"
              src="https://streak-stats.demolab.com?user=MatheusCoutinho26&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
       </td>
     </tr>
@@ -151,39 +135,33 @@
 <div>
   <details>
     <summary>🎧 Dados Spotify</summary>
-    <!-- Cartão de dados do Spotify -->
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uecxdnrcma7wejzo7wexwic6om" alt="Data Card for Spotify">
-  </details>
-</div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <!-- Cartaz geral do Spotify -->
-        <img alt="Spotify" width="200px" height="270px" 
-             src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uecxdnrcma7wejzo7wexwic6om&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-      </td>
-      <td>
-        <!-- Músicas recentemente tocadas no Spotify -->
-        <img alt="Spotify list" width="200px" height="270px" 
-             src="https://spotify-recently-played-readme.vercel.app/api?user=31uecxdnrcma7wejzo7wexwic6om&count=10"/>
-      </td>
-      <td>
-        <!-- Últimas músicas do Last.fm -->
-        <a href="https://www.last.fm/pt/user/Coutin13" target="_blank">
-          <img align="right" width="400px" height="270px" alt="Last.fm" 
-               src="https://lastfm-recently-played.vercel.app/api?user=Coutin13&width=400"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+    <!-- Cartão de dados do Spotify -->
+    ![Spotify Data Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uecxdnrcma7wejzo7wexwic6om)
+
+    <table>
+      <tr>
+        <td>
+          <!-- Cartaz geral do Spotify -->
+          ![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uecxdnrcma7wejzo7wexwic6om&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+        </td>
+        <td>
+          <!-- Músicas recentemente tocadas no Spotify -->
+          ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31uecxdnrcma7wejzo7wexwic6om&count=10)
+        </td>
+        <td>
+          <!-- Últimas músicas do Last.fm -->
+          [![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Coutin13&width=400)](https://www.last.fm/pt/user/Coutin13)
+        </td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 <div>
   <details>
     <summary>:headphones: :guitar: :drum:</summary>
-    [Minha música favorita](https://open.spotify.com/intl-pt/track/4mZu6NuOntvYZqCZPrxTqT?si=806d17468a2e4cf1)
+    [Minha música favorita no Spotify](https://open.spotify.com/intl-pt/track/4mZu6NuOntvYZqCZPrxTqT?si=806d17468a2e4cf1)
   </details>
 </div>
 
@@ -197,7 +175,7 @@
   <img src="https://img.shields.io/badge/AUTOCAD-Dev-blue?logo=autocad" alt="AutoCAD" />
   <img src="https://img.shields.io/badge/SOLIDWORKS-Dev-blue?logo=solidworks" alt="SolidWorks" />
   <br />
-  <img width="175" alt="Profile visitors" 
+  <img width="175" alt="Profile visitors"
        src="https://komarev.com/ghpvc/?username=MatheusCoutinho26"/>
   <img alt="Followers" src="https://img.shields.io/github/followers/MatheusCoutinho26?style=social"/>
   <img alt="Stars" src="https://img.shields.io/github/stars/MatheusCoutinho26?style=social"/>
