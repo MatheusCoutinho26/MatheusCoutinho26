@@ -131,41 +131,59 @@
 
 ---
 
-<!-- Seção de música (Spotify + Last.fm) -->
-<div>
-  <details>
-    <summary>🎧 Dados Spotify</summary>
+## Projetos em Destaque (desenvolvidos em C++)
 
-    <!-- Cartão de dados do Spotify -->
-    ![Spotify Data Card](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31uecxdnrcma7wejzo7wexwic6om)
-
-    <table>
-      <tr>
-        <td>
-          <!-- Cartaz geral do Spotify -->
-          ![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uecxdnrcma7wejzo7wexwic6om&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
-        </td>
-        <td>
-          <!-- Músicas recentemente tocadas no Spotify -->
-          ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31uecxdnrcma7wejzo7wexwic6om&count=10)
-        </td>
-        <td>
-          <!-- Últimas músicas do Last.fm -->
-          [![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=Coutin13&width=400)](https://www.last.fm/pt/user/Coutin13)
-        </td>
-      </tr>
-    </table>
-  </details>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/MatheusCoutinho26/SmartGas" target="_blank">
+          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/smartgas_case.jpg" alt="Capa SmartGas">
+          <p><strong>SmartGas</strong><br>Monitoramento de gás em tempo real, desenvolvido em C++ com microcontrolador e case 3D.</p>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/MatheusCoutinho26/TempSensor" target="_blank">
+          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/tempsensor_lcd.jpg" alt="Capa TempSensor">
+          <p><strong>TempSensor</strong><br>Sensor de temperatura integrado a display LCD, implementado em C++ em placa de prototipagem.</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/MatheusCoutinho26/FruitBox" target="_blank">
+          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/fruitbox_inside.jpg" alt="Capa FruitBox">
+          <p><strong>FruitBox</strong><br>Caixa de monitoramento de condições com sensores, código em C++ para leitura e exibição de dados.</p>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/MatheusCoutinho26/FruitBox" target="_blank">
+          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/fruitbox_exterior.jpg" alt="Capa FruitBox Exterior">
+          <p><strong>FruitBox (Case Externo)</strong><br>Caso em MDF cortado a laser, abrigando eletrônica e sensor de C++ para frutas.</p>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div>
-  <details>
-    <summary>:headphones: :guitar: :drum:</summary>
-    [Minha música favorita no Spotify](https://open.spotify.com/intl-pt/track/4mZu6NuOntvYZqCZPrxTqT?si=806d17468a2e4cf1)
-  </details>
-</div>
+---
 
------
+## Certificados
+
+A seguir, alguns certificados de participação em eventos acadêmicos, todos realizados com comprovação de carga horária por meio de programação e atividades práticas em C++:
+
+- [Semana dos Cursos 2025.1 – Participação](./certificates/Certificado_semana-dos-cursos-567072_Participação_21-07-21.pdf)  
+  Certificado de participação na Semana dos Cursos Newton Paiva 2025.1 (carga horária: 2 horas). :contentReference[oaicite:3]{index=3}
+
+- [Palestra “Uso da IA na Engenharia de Software” – Atividade](./certificates/Certificado_semana-dos-cursos-567072_Atividade_21-07-04.pdf)  
+  Certificado de participação na palestra sobre Uso da IA na Engenharia de Software durante a Semana dos Cursos Newton Paiva 2025.1 (carga horária: 2 horas). :contentReference[oaicite:4]{index=4}
+
+> **Observação:**  
+> 1. Crie uma pasta chamada **`certificates/`** na raiz do seu repositório.  
+> 2. Faça upload dos PDFs nomeados exatamente como nos links acima.  
+> 3. Assim, o caminho relativo `./certificates/SeuArquivo.pdf` funcionará corretamente para que o GitHub permita visualização ou download.
+
+---
 
 <div>
   <!-- Badges de tecnologias/habilidades -->
