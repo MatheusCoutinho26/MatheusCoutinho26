@@ -138,28 +138,48 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/SmartGas" target="_blank">
-          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/smartgas_case.jpg" alt="Capa SmartGas">
-          <p><strong>SmartGas</strong><br>Monitoramento de gás em tempo real, desenvolvido em C++ com microcontrolador e case 3D.</p>
+          <!-- Imagem do SmartGas -->
+          <img width="300px" 
+               src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-01-37-005_com.whatsapp-edit.jpg" 
+               alt="Capa SmartGas">
+          <p><strong>SmartGas</strong><br>
+             Monitoramento de gás em tempo real, desenvolvido em C++ com microcontrolador e case 3D.
+          </p>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/TempSensor" target="_blank">
-          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/tempsensor_lcd.jpg" alt="Capa TempSensor">
-          <p><strong>TempSensor</strong><br>Sensor de temperatura integrado a display LCD, implementado em C++ em placa de prototipagem.</p>
+          <!-- Imagem do TempSensor -->
+          <img width="300px" 
+               src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-03-11-066_com.whatsapp-edit.jpg" 
+               alt="Capa TempSensor">
+          <p><strong>TempSensor</strong><br>
+             Sensor de temperatura integrado a display LCD, implementado em C++ em placa de prototipagem.
+          </p>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/FruitBox" target="_blank">
-          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/fruitbox_inside.jpg" alt="Capa FruitBox">
-          <p><strong>FruitBox</strong><br>Caixa de monitoramento de condições com sensores, código em C++ para leitura e exibição de dados.</p>
+          <!-- Imagem interna do FruitBox -->
+          <img width="300px" 
+               src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-02-55-860_com.whatsapp-edit.jpg" 
+               alt="Capa FruitBox">
+          <p><strong>FruitBox</strong><br>
+             Caixa de monitoramento de condições com sensores, código em C++ para leitura e exibição de dados.
+          </p>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/FruitBox" target="_blank">
-          <img width="300px" src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/fruitbox_exterior.jpg" alt="Capa FruitBox Exterior">
-          <p><strong>FruitBox (Case Externo)</strong><br>Caso em MDF cortado a laser, abrigando eletrônica e sensor de C++ para frutas.</p>
+          <!-- Imagem externa do FruitBox -->
+          <img width="300px" 
+               src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-01-12-427_com.whatsapp-edit.jpg" 
+               alt="Capa FruitBox Exterior">
+          <p><strong>FruitBox (Case Externo)</strong><br>
+             Case em MDF cortado a laser, abrigando eletrônica e sensor de C++ para frutas.
+          </p>
         </a>
       </td>
     </tr>
@@ -173,15 +193,10 @@
 A seguir, alguns certificados de participação em eventos acadêmicos, todos realizados com comprovação de carga horária por meio de programação e atividades práticas em C++:
 
 - [Semana dos Cursos 2025.1 – Participação](./certificates/Certificado_semana-dos-cursos-567072_Participação_21-07-21.pdf)  
-  Certificado de participação na Semana dos Cursos Newton Paiva 2025.1 (carga horária: 2 horas). :contentReference[oaicite:3]{index=3}
+  Certificado de participação na Semana dos Cursos Newton Paiva 2025.1 (carga horária: 2 horas).
 
 - [Palestra “Uso da IA na Engenharia de Software” – Atividade](./certificates/Certificado_semana-dos-cursos-567072_Atividade_21-07-04.pdf)  
-  Certificado de participação na palestra sobre Uso da IA na Engenharia de Software durante a Semana dos Cursos Newton Paiva 2025.1 (carga horária: 2 horas). :contentReference[oaicite:4]{index=4}
-
-> **Observação:**  
-> 1. Crie uma pasta chamada **`certificates/`** na raiz do seu repositório.  
-> 2. Faça upload dos PDFs nomeados exatamente como nos links acima.  
-> 3. Assim, o caminho relativo `./certificates/SeuArquivo.pdf` funcionará corretamente para que o GitHub permita visualização ou download.
+  Certificado de participação na palestra sobre Uso da IA na Engenharia de Software durante a Semana dos Cursos Newton Paiva 2025.1 (carga horária: 2 horas).
 
 ---
 
