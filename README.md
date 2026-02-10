@@ -131,7 +131,7 @@
 
 ---
 
-## Projetos em Destaque (desenvolvidos em C++)
+## Projetos em Destaque (desenvolvidos em C++,java,SQL)
 
 <div align="center">
   <table>
