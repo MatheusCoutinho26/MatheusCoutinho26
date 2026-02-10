@@ -185,7 +185,22 @@
     </tr>
   </table>
 </div>
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/MatheusCoutinho26/Sistema-Gestao-Industrial-Java" target="_blank">
+      <img width="300px"
+           src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/arquivo_00000000d2ac71f691157695cdf11d32.png"
+           alt="Sistema de Gestão Industrial em Java">
+      <p><strong>Sistema de Gestão Industrial</strong><br>
+         Cálculo de eficiência de motores utilizando Java e conceitos básicos de POO.
+      </p>
+    </a>
+  </td>
 
+  <td align="center" width="50%">
+    <!-- Espaço reservado para futuro projeto -->
+  </td>
+</tr>
 ---
 
 ## Certificados
