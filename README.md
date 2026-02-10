@@ -120,7 +120,7 @@
 
 ---
 
-## Galeria de Projetos (Hardware & C++)
+## Projetos em Destaque (Hardware & C++)
 
 <div align="center">
   <table>
@@ -159,38 +159,5 @@
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/FruitBox" target="_blank">
-          <img width="300px" 
-               src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-01-12-427_com.whatsapp-edit.jpg" 
-               alt="Capa FruitBox Exterior">
-          <p><strong>FruitBox (Case Externo)</strong><br>
-             Case em MDF cortado a laser, abrigando eletrônica e sensor de C++ para frutas.
-          </p>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💻 Projetos de Código
-
-### 1. Banco de Dados de Loja (SQL)
-
-Modelagem e implementação de um banco de dados relacional para gerenciar cadastro de funcionários e clientes.
-
-```mermaid
-erDiagram
-    FUNCIONARIOS {
-        int id_func PK
-        string nome
-        string cargo
-        decimal salario
-    }
-    CLIENTES {
-        int id_cliente PK
-        string nome
-        string email
-        string cidade
-    }
-
+          <img width="300px"
+          
