@@ -14,7 +14,7 @@
     Tenho competência para criação de circuitos eletrônicos e elétricos e para criação e manutenção de peças mecânicas.  
     Programação em linguagens: SQL, Java, C++.  
     Atualmente trabalho como eletricista industrial. Formado técnico em Mecatrônica pelo SENAI.  
-    Estudante de Engenharia da Computação (2º período) no Centro Universitário Newton Paiva.
+    Estudante de Engenharia da Computação (4º período) no Centro Universitário Newton Paiva.
   </p>
 </div>
 
