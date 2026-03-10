@@ -66,27 +66,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-    
-   src="https://github-readme-stats.vercel.app/api?username=MatheusCoutinho26&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-      </td>
-      <td>
   
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoutinho26&theme=dark&locale=pt-br&langs_count=7"/>
-      </td>
-      <td>
-        
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoutinho26&layout=pie&theme=dark&locale=pt-br"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3"></td>
-    </tr>
-  </table>
-
-  <table>
+    
+    
+<table>
     <tr>
       <td>
         <img alt="GitHub Stats Card" width="200px"
