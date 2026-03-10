@@ -167,8 +167,6 @@
           </p>
         </a>
       </td>
-          <p><strong>Sistema de Gestão Industrial em Java</strong><br>
-             Cálculo de eficiência de motores utilizando Java e conceitos básicos de POO.
           </p>
         </a>
       </td>
