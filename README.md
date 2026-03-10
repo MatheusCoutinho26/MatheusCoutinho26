@@ -157,11 +157,16 @@
           </p>
         </a>
       </td>
-      <td align="center" width="50%">
+        <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/GestaoIndustrialJava" target="_blank">
           <img width="300px" 
-               src=https://github.com/MatheusCoutinho26/MatheusCoutinho26/blob/main/image/Gemini_Generated_Image_ushq1rushq1rushq.png" 
+               src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Gemini_Generated_Image_ushq1rushq1rushq.png" 
                alt="Sistema de Gestão Industrial em Java">
+          <p><strong>Sistema de Gestão Industrial em Java</strong><br>
+             Cálculo de eficiência de motores utilizando Java e conceitos básicos de POO.
+          </p>
+        </a>
+      </td>
           <p><strong>Sistema de Gestão Industrial em Java</strong><br>
              Cálculo de eficiência de motores utilizando Java e conceitos básicos de POO.
           </p>
