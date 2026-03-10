@@ -66,10 +66,27 @@
 ## GitHub Stats
 
 <div align="center">
-  
-    
-    
-<table>
+  <table>
+    <tr>
+      <td>
+        <img alt="GitHub Stats"
+             src="https://github-readme-stats.vercel.app/api?username=MatheusCoutinho26&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+      </td>
+      <td>
+        <img alt="GitHub Top Langs"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoutinho26&theme=dark&locale=pt-br&langs_count=7"/>
+      </td>
+      <td>
+        <img alt="GitHub Top Langs Pie"
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoutinho26&layout=pie&theme=dark&locale=pt-br"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3"></td>
+    </tr>
+  </table>
+
+  <table>
     <tr>
       <td>
         <img alt="GitHub Stats Card" width="200px"
@@ -140,16 +157,13 @@
           </p>
         </a>
       </td>
-        <td align="center" width="50%">
+     <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/GestaoIndustrialJava" target="_blank">
           <img width="300px" 
                src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Gemini_Generated_Image_ushq1rushq1rushq.png" 
                alt="Sistema de Gestão Industrial em Java">
           <p><strong>Sistema de Gestão Industrial em Java</strong><br>
              Cálculo de eficiência de motores utilizando Java e conceitos básicos de POO.
-          </p>
-        </a>
-      </td>
           </p>
         </a>
       </td>
