@@ -1,4 +1,4 @@
-<img width="1255" height="772" alt="image"  /><div>
+<img width="1255" height="772"   /><div>
   <img align="center" alt="Header Matheus"
        src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/cabeça.png"/>
 </div>
@@ -128,7 +128,7 @@
       <td align="center" width="50%">
         <a href="https://github.com/MatheusCoutinho26/SmartGas" target="_blank">
           <img width="300px" 
-               src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-01-37-005_com.whatsapp-edit.jpg" 
+               <a href="https://github.com/MatheusCoutinho26/Fruit-box" target="_blank">
             src= https://github.com/MatheusCoutinho26/Fruit-box
                alt="Capa SmartGas">
           <p><strong>SmartGas</strong><br>
