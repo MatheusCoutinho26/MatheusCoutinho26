@@ -1,4 +1,4 @@
-<img width="1255" height="772" alt="image" src="https://github.com/user-attachments/assets/bfa8639d-1ae2-4e38-9441-6306181c6c93" /><div>
+<img width="1255" height="772" alt="image"  /><div>
   <img align="center" alt="Header Matheus"
        src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/cabeça.png"/>
 </div>
