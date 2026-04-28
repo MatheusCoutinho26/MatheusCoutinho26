@@ -1,4 +1,4 @@
-<div>
+<img width="1255" height="772" alt="image" src="https://github.com/user-attachments/assets/bfa8639d-1ae2-4e38-9441-6306181c6c93" /><div>
   <img align="center" alt="Header Matheus"
        src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/cabeça.png"/>
 </div>
@@ -129,6 +129,7 @@
         <a href="https://github.com/MatheusCoutinho26/SmartGas" target="_blank">
           <img width="300px" 
                src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-01-37-005_com.whatsapp-edit.jpg" 
+            src= https://github.com/MatheusCoutinho26/Fruit-box
                alt="Capa SmartGas">
           <p><strong>SmartGas</strong><br>
              Monitoramento de gás em tempo real, desenvolvido em C++ com microcontrolador e case 3D.
