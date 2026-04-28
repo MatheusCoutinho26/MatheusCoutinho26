@@ -149,7 +149,6 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/MatheusCoutinho26/FruitBox" target="_blank">
           <img width="300px" 
                src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/Screenshot_2025-06-03-21-02-55-860_com.whatsapp-edit.jpg" 
                alt="Capa FruitBox">
