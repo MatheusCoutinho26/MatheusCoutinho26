@@ -1,6 +1,6 @@
 <img width="1255" height="772"   /><div>
   <img align="center" alt="Header Matheus"
-       src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/cabeça.png"/>
+       src="https://raw.githubusercontent.com/MatheusCoutinho26/MatheusCoutinho26/main/image/capa.png"/>
 </div>
 
 -----
